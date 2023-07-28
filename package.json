@@ -3,6 +3,7 @@
   "displayName": "tox-motto",
   "description": "",
   "version": "0.0.1",
+  "publisher": "sankooc",
   "repository": {
     "type": "git",
     "url": "https://github.com/sankooc/tox-motto.git"
@@ -13,7 +14,7 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": ["*"],
+  "activationEvents": ["onStartupFinished"],
   "main": "./extension.js",
   "contributes": {
     "commands": []

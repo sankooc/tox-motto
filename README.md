@@ -5,4 +5,5 @@
 data from [nows.fun](http://www.nows.fun/)
 
 
+![nows.fun](./demo.gif)
 **Enjoy!**
